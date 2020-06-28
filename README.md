@@ -4,5 +4,5 @@ The project provides an overview of introduction to compiler design and computat
 
 Confidential information is not displayed.
 
-Please download the executable in https://github.com/alpaddesai/PCBDesignProcess/releases for details.
+Please download the executable in https://github.com/alpaddesai/CompilerDesign/releases for details.
 
