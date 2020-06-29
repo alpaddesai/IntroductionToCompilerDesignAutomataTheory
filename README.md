@@ -10,5 +10,5 @@ Please download the executable in https://github.com/alpaddesai/CompilerDesign/r
 
 ![image](CompilerDesign.png)
 
-![image](CertificateCadenceCplusplus.jpg)
+![image](CertificateCplusplus.png)
 
