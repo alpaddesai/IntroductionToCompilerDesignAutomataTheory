@@ -8,5 +8,3 @@ Please download the executable in https://github.com/alpaddesai/CompilerDesign/r
 
 ![image](ComputationTheory.png)
 
-![image](CertificateCadenceCplusplus.png)
-
