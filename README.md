@@ -2,7 +2,7 @@
 
 The project provides an overview of introduction to compiler design and computation theory. 
 
-Confidential information is not displayed.
+Confidential information is not displayed.  Reference: Building your own compiler with C++
 
 Please download the executable in https://github.com/alpaddesai/CompilerDesign/releases for details.
 
