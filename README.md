@@ -1,6 +1,6 @@
 # Compiler Design
 
-The project provides an overview of introduction to compiler design and computation theory. 
+The project provides an overview of introduction to compiler design, automata & computation theory. 
 
 Confidential information is not displayed.  
 
