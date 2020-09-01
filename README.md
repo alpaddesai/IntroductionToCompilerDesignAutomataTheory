@@ -12,6 +12,8 @@ Please download the executable in https://github.com/alpaddesai/CompilerDesign/r
 
 ![image](CompilerDesign.png)
 
+![image](TheoryofComputation.jpg)
+
 ![image](CertificateCplusplus.png)
 
 Advanced knowledge reference : https://github.com/alpaddesai/ObjectOrientedDesignProgramming
