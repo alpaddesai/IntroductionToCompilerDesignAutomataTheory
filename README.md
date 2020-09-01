@@ -12,8 +12,6 @@ Please download the executable in https://github.com/alpaddesai/CompilerDesign/r
 
 ![image](CompilerDesign.png)
 
-![image](TheoryofComputation.jpg)
-
 ![image](TheoryofComputationI.jpg)
 
 ![image](CertificateCplusplus.png)
