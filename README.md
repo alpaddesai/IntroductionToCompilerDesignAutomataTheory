@@ -20,5 +20,7 @@ Please download the executable in https://github.com/alpaddesai/CompilerDesign/r
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Advanced knowledge reference : https://github.com/alpaddesai/ObjectOrientedDesignProgramming
 
