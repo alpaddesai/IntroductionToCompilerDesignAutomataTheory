@@ -10,11 +10,7 @@ Reference: Building your own compiler with C++ - Jim Holmes
 
 ![image](CompilerDesign.png)
 
-![image](TheoryofComputationI.jpg)
-
 ![image](CertificateCplusplus.png)
-
-![iimage](IntroductionCompilerDesign.jpg)
 
 ![image](USCopyrightCertificate.png)
 
