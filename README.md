@@ -8,6 +8,8 @@ Confidential information is not displayed.
 
 ![image](CompilerDesign.png)
 
+![image](CSharp.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
