@@ -4,8 +4,6 @@ The project provides an overview of introduction to compiler design, automata & 
 
 Confidential information is not displayed.  
 
-Reference: Building your own compiler with C++ - Jim Holmes
-
 ![image](ComputationTheory.png)
 
 ![image](CompilerDesign.png)
