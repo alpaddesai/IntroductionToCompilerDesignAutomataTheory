@@ -10,6 +10,8 @@ Confidential information is not displayed.
 
 ![image](CSharp.jpg)
 
+![image](finiteautomata.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
