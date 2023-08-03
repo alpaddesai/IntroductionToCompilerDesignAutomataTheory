@@ -1,4 +1,4 @@
-# Compiler Design
+# Introduction to  Compiler Design
 
 The project provides an overview of introduction to compiler design, automata & computation theory. 
 
